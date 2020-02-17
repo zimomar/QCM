@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="image_content_description">Un Android avec un
+chien</string>
+    <string name="create_account">Créer un compte</string>
+    <string name="email">Adresse email</string>
+    <string name="password">Mot de passe</string>
+    <string name="connect">Se connecter</string>
+    <string name="hint_mail">"Ici : L'adresse email de
+l'utilisateur"</string>
+    <string name="hint_pass">"Ici : Le mot de passe de
+l'utilisateur"</string>
+    <string
+        name="title_activity_login_display">LoginDisplayActivity</string>
+    <string name="email_format_error">"L'Email n'est pas bon"</string>
+    <string name="pass_format_error">"Le mot de passe est trop
+court"</string>
+    <string name="email_or_password_empty">"L'Email ou le mot de passe ne
+peut pas être vide"</string>
+    <string name="valider">Valider</string>
+
+</resources>
